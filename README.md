@@ -71,14 +71,6 @@
 
 ---
 
-## 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOURUSERNAME&theme=tokyonight"/>
-
-</p>
-
 ---
 
 ## ⚡ Fun Fact
